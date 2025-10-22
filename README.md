@@ -27,6 +27,8 @@ Text         20 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=Anoop130&theme=dracula)
+---
 
 ### 🔗 Find me
 - Email: anoopmishra0130@gmail.com
