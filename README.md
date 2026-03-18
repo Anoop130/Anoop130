@@ -15,13 +15,13 @@ I’m Anoop — CS + Math @ MSU. I build systems-y things (5G/RAN security, CLI 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2026 - To: 17 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-C++           19 mins               ████████████▓░░░░░░░░░░░░   50.21 %
-Common Lisp   10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-Markdown      4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Python        3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-Makefile      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C++           1 hr 14 mins          ██████████████░░░░░░░░░░░   56.53 %
+Common Lisp   47 mins               █████████░░░░░░░░░░░░░░░░   36.10 %
+Markdown      5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Python        3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Makefile      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
