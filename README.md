@@ -9,7 +9,7 @@ I’m Anoop — CS + Math @ MSU. I build systems-y things (5G/RAN security, CLI 
 ![Anoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anoop130&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop130&layout=compact&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=pixel)
+![](https://komarev.com/ghpvc/?username=Anoop130)
 ---
 
 ### ⏱ WakaTime (last 7 days)
