@@ -16,7 +16,7 @@ I’m Anoop — CS + Math @ MSU. I build systems-y things (5G/RAN security, CLI 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2026 - To: 17 April 2026
+From: 11 April 2026 - To: 18 April 2026
 
 Other        3 hrs 6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.71 %
 Python       2 hrs 46 mins         ███████░░░░░░░░░░░░░░░░░░   27.50 %
