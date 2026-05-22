@@ -18,11 +18,11 @@ I’m Anoop — CS + Math @ MSU. I build systems-y things (5G/RAN security, CLI 
 ```txt
 From: 14 May 2026 - To: 21 May 2026
 
-Python     2 hrs 5 mins          █████████████████▓░░░░░░░   70.53 %
-Markdown   29 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
-Other      13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-TeX        8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python     2 hrs 10 mins         █████████████████░░░░░░░░   68.02 %
+Markdown   29 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+Other      22 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+TeX        8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
